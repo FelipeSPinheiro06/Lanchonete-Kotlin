@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aula-20_03_2024</string>
+    <string name="qtdCoxinha">Quantidade de Coxinhas: </string>
+    <string name="qtdBebida">Quantidade de Bebidas: </string>
+    <string name="button1">Calcular Total</string>
+    <string name="nome_lanchonete">:: Lanchonete Felipe::</string>
+    <string name="buttonVoltar">Voltar</string>
+</resources>
